@@ -38,3 +38,4 @@ This is an API made with [Express](https://expressjs.com/) for [Wumpus.store](ht
 
 ## 👀 How it looks?
   <img src="https://cdn.discordapp.com/attachments/1207046683360370730/1208254654279061575/image.png?ex=65e29dd5&is=65d028d5&hm=f2b8bcafc797401d92b447c61049a03c4cb3acd53f5896bf74fdc7597af599ff&" alt="Final">
+  
