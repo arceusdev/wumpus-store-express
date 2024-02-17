@@ -22,7 +22,7 @@ This is an API made with [Express](https://expressjs.com/) for [Wumpus.store](ht
 
 - Clone the repository
   - Use `git clone https://github.com/blurwind/wumpus-store-express`
-- Install dependencies using `npm install`
+- Install the dependencies using `npm install`
   - Run `npm install` in the terminal
 - Rename `.env.example` to `.env` and fill it with your data
   - Make sure to choose a strong password for your authentification token, as it will be used to verify that requests are coming from Wumpus.store : paste it in the `AUTH_TOKEN` field
