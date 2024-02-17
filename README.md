@@ -31,7 +31,7 @@ This is an API made with [Express](https://expressjs.com/) for [Wumpus.store](ht
   - Vercel can be a good solution, [here's a tutorial on how to do it](https://www.youtube.com/watch?v=B-T69_VP2Ls)
 - Once your API is online, go to your bot's Wumpus.store page and click on the "[Edit Discord Bot](https://wumpus.store/bot/BOT_ID/edit)" button.
   - On the left, you have a "Webhooks" section with two fields.
-  - In the first field, enter the URL of your API (for example https://x.com/vote)
+  - In the first field, enter the URL of your API (for example https://x.com**/vote**)
   - In the second field, enter the **EXACT** same authentification token that you choosed earlier in the `.env` file
   - Save your changes, now you can test if everything is working by clicking on the "Send Webhook" button
 
