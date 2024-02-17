@@ -1,6 +1,8 @@
 const dotenv = require("dotenv");
 const axios = require("axios");
 
+dotenv.config();
+
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 
 async function webhookEmbed(userId, botId) {
