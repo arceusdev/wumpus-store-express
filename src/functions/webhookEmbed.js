@@ -11,7 +11,7 @@ async function webhookEmbed(userId, botId) {
 
     const now = Math.floor(Date.now() / 1000);
     const inTwelveHours = now + 12 * 60 * 60;
-
+    
     const embed = {
       embeds: [
         {
