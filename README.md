@@ -24,7 +24,7 @@ This is an API made with [Express](https://expressjs.com/) for [Wumpus.store](ht
   - Use `git clone https://github.com/blurwind/wumpus-store-express`
 - Install dependencies using `npm install`
   - Run `npm install` in the terminal
-- Configure your settings in the `.env` file
+- Rename `.env.example` to `.env` and fill it with your data
   - Make sure to choose a strong password for your authentification token, as it will be used to verify that requests are coming from Wumpus.store : paste it in the `AUTH_TOKEN` field
   - Create a webhook on your Discord server, click [here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks?__cf_chl_tk=ZS.jMt3z7KjacUMOl1Fy2HdD_aHYzRdZLLIAHogiB3w-1708138741-0.0-4434) for a guide : paste the URL in the `WEBHOOK_URL` field
 - Adapt the code depending on where you want to host the API (especially  the part for starting the server)
