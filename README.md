@@ -4,7 +4,7 @@
 
 <h1 align="center">Wumpus Store Express</h1>
 
-<p align="center">Receive an embed by webhook when someone votes on your bot on <a href="https://wumpus.store">Wumpus.store</a></p>
+<p align="center">Receive an embed by webhook when someone votes for your bot on <a href="https://wumpus.store">Wumpus.store</a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
