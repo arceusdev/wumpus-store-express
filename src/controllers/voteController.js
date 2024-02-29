@@ -20,4 +20,4 @@ async function controlVote(req, res) {
   }
 }
 
-module.exports = { controlVote };
+module.exports = controlVote;
